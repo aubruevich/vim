@@ -1,0 +1,6 @@
+nerdcommenter
+nerdtree
+vim-bracketed-paste
+vim-buffergator
+vim-fugitive
+vim-unimpaired
